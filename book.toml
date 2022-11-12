@@ -1,0 +1,6 @@
+[book]
+authors = ["Dhammānanda"]
+language = "zh-Hans"
+multilingual = false
+src = "src"
+title = "Compilation of Burmese grammar"
